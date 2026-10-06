@@ -14,8 +14,7 @@ local HUB_PLACE_ID = 15327728308
 local PING_ROLE_ID = "1553082652268175391"
 
 local SERVERS = {
-    "Abyss","Aftermath","Alpha","Anarchy","Armageddon","Banshee","Blight","Bravo",
-    "Carnage","Cataclysm","Charlie","Chaos","Delta","Despair","Doom","Dread",
+    "Abyss","Aftermath","Delta","Despair","Doom","Dread",
     "Echo","Eclipse","Eerie","Fallout","Foxtrot","Frenzy","Gloom","Golf",
     "Grave","Grim","Harrow","Havoc","Hotel","Ignition","India","Inferno",
     "Jagged","Judgement","Juliett","Kilo","Kraken","Krypt","Lament","Lima",
